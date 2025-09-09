@@ -1,11 +1,16 @@
+Este Pull Request adiciona um novo arquivo de anotações da aula, contendo:
 
-# GitFlow Lab
-Repositório para praticar Git Flow (feature, release, hotfix).
+Tipos de Controle de Versão: diferenciação entre sistemas centralizados (ex.: Subversion, CVS) e distribuídos (ex.: Git, Mercurial)
 
-## Instruções iniciais
-1. Clone o repositório:
-   git clone https://github.com/khyquer/ads4-gitflow.git
-2. Entre na pasta:
-   cd ads4-gitflow
-3. Crie a sua branch:
-   git checkout -b feature/<nome-aluno>
+Tipos.de.Controle.de.Versao
+
+Integridade Lógica em Bancos de Dados: princípios básicos como uso de chaves primárias, restrição de valores nulos e padronização de unidades nos dados
+
+Tipos.de.Integridade.Logica
+
+Versionamento de Dependências: explicação sobre o papel do manifesto (declara dependências) e do lockfile (congela versões instaladas)
+
+Versionamento.de.dependencia
+
+
+Angelo Augusto
